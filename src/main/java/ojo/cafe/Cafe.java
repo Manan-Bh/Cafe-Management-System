@@ -15,10 +15,7 @@ public class Cafe {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("Hello World!");
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
-        System.out.println("Hello World!");
+
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("Hello World!");
@@ -28,5 +25,7 @@ public class Cafe {
         //EDITS 3 4
         //Testing
         //123
+
+master
     }
 }
